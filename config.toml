@@ -1,7 +1,9 @@
 baseURL = 'http://stouffersolutions.com/'
 languageCode = 'en-us'
 title = 'Stouffer Solutions'
-theme = "air"
 
 [params]
     description = "Business solutions that learn from you"
+
+[[module.imports]]
+  path = "github.com/syui/hugo-theme-air"
