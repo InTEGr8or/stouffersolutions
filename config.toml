@@ -1,3 +1,7 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://stouffersolutions.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Stouffer Solutions'
+theme = "air"
+
+[params]
+    description = "Business solutions that learn from you"
